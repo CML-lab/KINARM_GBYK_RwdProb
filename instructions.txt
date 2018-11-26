@@ -1,0 +1,35 @@
+This task shares some similarities with the last task you just did.  You'll see the same cursor, and the same gray start dot.  The targets in this task will both be located in front of the start dot instead of all around it, like in the last task.  Additionally, each target will have a cent value above it that shows how much money that target is worth if you hit it with the cursor before the time is up.  The main goal here is to earn as much money as  you can, the more targets you hit, the more money you will earn at the end of this session.  Targets won't always be worth the same amount, however, so some correct hits will earn you more money than others.  
+
+You'll start each trial by bringing the cursor to the start dot. Once you're there, 2 targets will appear.  At this point, each target is a potential target; only one will be the correct target. After about a half of a second you will hear a beep.  As soon as you hear that beep you should reach towards the targets.  Once you start your movement, the incorrect target will disappear, leaving only the correct target visible.  If you hit that correct target, then you will get however much money that target is worth.
+
+Does that make sense? (this is the main goal so make sure they understand)
+
+The targets will range in color from red to blue.  The color of the targets represents how probable they are to be the true target.  The more red a target is, the more likely it will be the true target.  The opposite goes for blue, the bluer a target is, the less likely it is to be the true target. If you see a target that is equally red and blue that means that it has a 50/50 chance of being the true target.
+
+Again, the goal here is to make as much money as you can by hitting the correct targets.  Pay attention to the values and colors of the targets.
+
+Remember to wait until you hear the beep to start your reach, if you wait too long after the beep, you'll see a "too late" message.  Additionally, if your reach is too slow, you'll see a "too slow" message like in the last task.
+
+Do you have any questions? 
+
+
+38:  RRL
+39:  RLR
+40:  LRR 
+41:  LLR
+42:  LRL
+43:  RLL
+
+44:  RRL
+45:  RLR
+46:  LRR
+47:  LLR
+48:  LRL
+49:  RLL
+
+50:  RRL
+51:  RLR
+52:  LRR
+53:  LLR
+54:  LRL
+55:  RLL
